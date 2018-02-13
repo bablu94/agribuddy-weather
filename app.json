@@ -1,0 +1,15 @@
+{
+  "name": "agribuddy-weather",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
